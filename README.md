@@ -23,7 +23,8 @@
   HAL Development for Android devices<br>
   Compiler backends, build systems<br>
   Bare-metal firmware & bring-ups<br>
-  Embedded systems and recovery engineering
+  Embedded systems and recovery engineering. <br>
+  AI & ML <br>
 </p>
 
 ---
