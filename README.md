@@ -6,11 +6,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ic7400a&style=flat&color=2C3E50&label=Profile%20Views" alt="Profile Views" />
 </p>
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto%20Mono&size=40&duration=2500&pause=800&color=2C3E50&center=true&vCenter=true&width=700&lines=Kernel%20%7C%20OS%20%7C%20Compilers%20%7C%20HAL" alt="Typing Intro and Tech Stack" />
-</p>
+</p> -->
 
-<p align="center" style="max-width: 600px; margin: auto; font-size: 18px; color: #2C3E50;">
+<!--<p align="center" style="max-width: 600px; margin: auto; font-size: 18px; color: #2C3E50;">
   Currently engaged in kernel development, compilers, and hardware abstraction layers. Committed to continuous learning and growth in systems programming and contributing to open-source communities.
 </p>
 
@@ -39,7 +39,7 @@
 | GDB, QEMU            | AOSP / LineageOS       | Shell scripting, Python   |
 | Make / Ninja         | Recovery / U-Boot      |                           |
 
-</div>
+</div> -->
 
 ---
 
@@ -90,5 +90,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=150&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=100&section=footer" />
 </p>
