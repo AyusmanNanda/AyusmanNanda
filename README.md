@@ -46,8 +46,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="github-readme-stats-five-red-87.vercel.app/api?username=AyusmanNanda&show_icons=true&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" width="350" height="160" style="object-fit: contain;" />
-  <img src="github-readme-stats-five-red-87.vercel.app/api/top-langs/?username=AyusmanNanda&layout=compact&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" width="350" height="160" style="object-fit: contain;" />
+  <img src="https://github-readme-stats-five-red-87.vercel.app/api?username=AyusmanNanda&show_icons=true&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" width="350" height="160" style="object-fit: contain;" />
+  <img src="https://github-readme-stats-five-red-87.vercel.app/api/top-langs/?username=AyusmanNanda&layout=compact&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" width="350" height="160" style="object-fit: contain;" />
 </div>
 
 ---
