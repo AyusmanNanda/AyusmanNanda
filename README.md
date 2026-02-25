@@ -68,7 +68,7 @@
   <a href="https://github.com/AyusmanNanda" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=" alt="GitHub" />
   </a>
-  <a href="https://gitlab.com/ic7400a" target="_blank" rel="noopener noreferrer" style="margin-left:20px; margin-right:20px;">
+  <a href="https://gitlab.com/AyusmanNanda" target="_blank" rel="noopener noreferrer" style="margin-left:20px; margin-right:20px;">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white&label=" alt="GitLab" />
   </a>
   <a href="mailto:atrigveda@gmail.com" target="_blank" rel="noopener noreferrer">
